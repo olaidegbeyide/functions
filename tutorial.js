@@ -15,4 +15,5 @@ const loadDetails = async () => {
      showDeets.innerHTML = html
  })
 }
-loadData()
+loadDetails()
+
